@@ -1,2 +1,2 @@
-# Gestor-de-Inventario
-Proyecto de Gestor de Inventario por Consola
+# Gestor-de-Pedidos
+Proyecto de Gestor de Pedido por Consola
